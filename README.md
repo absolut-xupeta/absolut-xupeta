@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=absolut-xupeta&layout=compact&langs_count=16&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absolut-xupeta&layout=compact&langs_count=16&theme=dracula"/>
 
 <!--
 **absolut-xupeta/absolut-xupeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
